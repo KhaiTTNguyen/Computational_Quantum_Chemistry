@@ -17,6 +17,7 @@ This folder consists of analysis programs written in Python that examine the inf
 * Time management
 
 # Further readings
+Excited State Dynamics of cis,cis-1,3-cyclooctadiene: Non-adiabatic Trajectory Surface Hopping: https://pubmed.ncbi.nlm.nih.gov/32384830/
 
 # Contribution
 * Khai Nguyen (カイ∙グエン):  khainguyen@temple.edu
