@@ -1,7 +1,9 @@
 # Overview 
-This folder consists of analysis programs written in Python that examine the influence of molecule structures on the dynamics of excited state electrons. This work tries to understand how the structure of [conjugated systems](https://tinyurl.com/ybrfmk4t), such as number & positions of double bonds, affect the photo-isomerization products of non-adiabatic processes, and the lifetime of excited states.
+This folder consists of analysis programs written in Python that examine the influence of molecule structures on the dynamics of excited state electrons. 
 
-Our work also look into whether the excited state dynamics localized on individual bonds, or delocalized on multiple bonds.
+Light-induced isomerization currently plays a key role in creating molecular switches / molecular machines, where light aids in conversion between different stable forms or configurations of a molecule. Applications can be seen in photoresponsive biological functions and processes in light-absorbing proteins.
+
+This work tries to understand how the structure of [conjugated systems](https://tinyurl.com/ybrfmk4t), such as number & positions of double bonds, the sizeof the system/number of Carbons, etc., affect the photo-isomerization products of non-adiabatic processes, and the lifetime of excited states. Our work also look into whether the excited state dynamics localized on individual bonds, or delocalized on multiple bonds.
 
 # Installations
 * Anaconda (JupyterNotebook): https://tinyurl.com/y7fbo2hk
