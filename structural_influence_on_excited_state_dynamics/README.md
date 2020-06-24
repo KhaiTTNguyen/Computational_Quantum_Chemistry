@@ -7,6 +7,8 @@ This work tries to understand how the structure of [conjugated systems](https://
 
 * Excited State Dynamics of cis,cis-1,3-cyclooctadiene: Non-adiabatic Trajectory Surface Hopping: https://pubmed.ncbi.nlm.nih.gov/32384830/
 
+[![cis,cis-1,3-cyclooctadiene](https://media.giphy.com/media/kxm6GiEvw6snI96IsO/giphy.gif)](https://www.youtube.com/watch?v=zg9BKRjvgUI)
+
 
 # Installations
 * [Anaconda](https://tinyurl.com/y7fbo2hk) (JupyterNotebook)
