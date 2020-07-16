@@ -12,6 +12,7 @@ This work tries to understand how the structure of [conjugated systems](https://
 
 # Installations
 * [Anaconda](https://tinyurl.com/y7fbo2hk) (JupyterNotebook)
+* [wxMacMolPlt](https://brettbode.github.io/wxmacmolplt/)
 
 # Building blocks
 * [[Khai_Nguyen]_Internal_Coordinates_Analysis.ipynb](https://github.com/KhaiTTNguyen/Computational_Quantum_Chemistry/blob/master/structural_influence_on_excited_state_dynamics/%5BKhai_Nguyen%5D_Geometric_structure_analysis.ipynb) compute internal coordinates.
