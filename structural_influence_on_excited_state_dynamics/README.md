@@ -32,10 +32,11 @@ This work tries to understand how the structure of [conjugated systems](https://
 # Further readings
 * [The Protein Data Bank and Structural Genomics](https://academic.oup.com/nar/article/31/1/489/2401336)
 
-# Library References
+# References
 * [BioPython](https://biopython.org/)
 * [ChemPy](https://pypi.org/project/chempy/)
 * [MolMod](https://molmod.github.io/molmod/index.html)
+* [O'Reilly Data Science Handbook](https://tinyurl.com/y3vmpczy)
 
 # Contribution
 * Khai Nguyen (カイ∙グエン):  khainguyen@temple.edu
