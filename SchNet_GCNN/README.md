@@ -1,6 +1,6 @@
 
 ## SchNet_GCNN 
-This folder hosts all the work related to paper [Graph Convolution Neural Network for predicting Photo-excited State Properties of Indole C8H7N Absorption Spectra]() Guidelines and requirements are specfied below.
+This folder hosts all the work related to paper [Graph Convolution Neural Network for predicting Photo-excited State Properties of Indole C8H7N Absorption Spectra](https://github.com/KhaiTTNguyen/Computational_Quantum_Chemistry/blob/master/SchNet_GCNN/%5BFinal%5DHonorScholarProject_KhaiNguyen_GCNN_for_predicting_excited_state_properties_of_indole_absorption_spectra.pdf). Guidelines and requirements are specfied below.
 
 ## Requirements
 * [SchNetPack](https://schnetpack.readthedocs.io/en/stable/#)
