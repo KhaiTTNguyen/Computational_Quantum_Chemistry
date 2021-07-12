@@ -1,6 +1,6 @@
 
 ## SchNet_GCNN 
-This folder hosts all the work related to .... Guidelines and requirements are specfied below.
+This folder hosts all the work related to paper [Graph Convolution Neural Network for predicting Photo-excited State Properties of Indole C8H7N Absorption Spectra]() Guidelines and requirements are specfied below.
 
 ## Requirements
 * [SchNetPack](https://schnetpack.readthedocs.io/en/stable/#)
@@ -30,4 +30,8 @@ This folder hosts all the work related to .... Guidelines and requirements are s
 
 ## Contributors
 For questions regarding this project please direct to the main author
-* 
+* Khai Nguyen (カイ∙グエン): khainguyen@temple.edu (main author)
+* Mushir ul Hasan: mushir@temple.edu (<em>abs-spec-config.f90</em> script)
+* Salsabil Abou-Hatab: salsa.abouhatab@temple.edu
+* Dr. Pratip Chakraborty: pratip.chakraborty@rutgers.edu
+* Dr. Spiridoula Matsika: smatsika@temple.edu
